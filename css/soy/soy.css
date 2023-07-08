@@ -1,0 +1,13 @@
+.soy {
+    display: flex;
+    flex-direction: column;
+    background: #ffffff;
+    width: 1136px;
+    align-content: center;
+    justify-content: space-between;
+    padding: 3rem, 3rem, 3rem, 3rem;
+    margin: 50px 50px;   
+
+
+
+}

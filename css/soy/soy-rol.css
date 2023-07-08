@@ -1,0 +1,12 @@
+.soy__rol {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    font-style: normal; 
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    color:#464646 ;
+    font-size: 3.25rem;
+    padding-left: 2rem;
+    margin-top: 2rem;
+    
+}

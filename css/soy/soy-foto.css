@@ -1,0 +1,11 @@
+.soy__foto {
+    background-image: url('/img/fotodanilo.jpg');
+    /* display: flex; */
+    height: 300px;
+    width: 300px;    
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 368px;
+    margin: 20px;
+}
+
