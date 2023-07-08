@@ -1,0 +1,9 @@
+.sobre__mi{
+    background: #EAF2FD;
+    flex-direction: column;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    width: 71rem;
+    margin: 50px 50px;  
+    padding: 3rem, 3rem, 3rem, 3rem; 
+
+}
