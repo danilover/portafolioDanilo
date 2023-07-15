@@ -1,0 +1,9 @@
+.footer__inicio {
+    display: flex;
+    width: 90rem;
+    padding: 2rem;
+    justify-content: center;
+    align-items: center;
+    gap: 0.625rem;
+    background: #ffffff;
+}

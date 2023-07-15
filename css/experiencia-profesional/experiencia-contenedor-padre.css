@@ -1,0 +1,7 @@
+.experiencia__contenedor-padre {
+    display: flex;
+    width: 71rem;
+    height: 25.375rem;
+    align-items: center;
+    gap: 1rem;
+}

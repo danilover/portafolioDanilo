@@ -1,0 +1,15 @@
+.formulario__btn {
+    display: flex;
+    padding: 1rem;
+    justify-content: center;
+    align-items: center;
+    gap: 0.625rem;
+    background: #2A7AE4;
+   
+}
+
+/* @media screen and (min-width 768px) {
+    .formulario__btn {
+        flex-direction: column;
+    }
+} */

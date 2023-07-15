@@ -1,0 +1,6 @@
+.experiencia__contenedor-botones {   
+    display: flex;
+    width: 35rem;
+    align-items: flex-start;
+    gap: 1rem;
+}

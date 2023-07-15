@@ -1,0 +1,7 @@
+.sobre__contenedor {
+    display: flex;
+    width: 71rem;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem;
+}

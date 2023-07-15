@@ -1,0 +1,8 @@
+.formulario__contenedor-padre {
+    display: flex;
+    justify-content: space-between;
+    width: 71rem;
+    padding-top: 64px;
+    align-items: center;
+    gap: 1rem;
+}

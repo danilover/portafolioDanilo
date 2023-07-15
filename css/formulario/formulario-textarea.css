@@ -1,0 +1,14 @@
+.formulario__textarea {
+    display: flex;
+    padding-top: 16px;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+    gap: 5.75rem;
+    align-self: stretch;
+}
+
+.formulario__textarea {
+    border-radius: 0.25rem;
+    background:  #ffffff;
+}

@@ -1,0 +1,12 @@
+.formacion__especializacion {
+    display: flex;
+    width: 15rem;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 0.5rem;
+    margin-top: 5rem;
+    /* background: #EAF2FD; */
+    
+
+}

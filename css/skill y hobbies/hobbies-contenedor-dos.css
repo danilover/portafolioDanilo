@@ -1,0 +1,9 @@
+.hobbies__contenedor-dos{
+    display: flex;
+    justify-content: space-between;
+    margin: 2rem;
+    /* flex-direction: column; */
+    align-items: center;
+    gap: 2rem;
+    
+}

@@ -1,0 +1,11 @@
+.formacion__contenedor-padre {
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: space-between;
+    margin: 5rem;
+    background: #EAF2FD ;
+    
+
+    
+
+}

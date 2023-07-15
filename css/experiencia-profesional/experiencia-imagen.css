@@ -1,0 +1,5 @@
+.experiencia__imagen {
+    width: 47rem;
+    flex-shrink: 0;
+    align-self: stretch;
+}

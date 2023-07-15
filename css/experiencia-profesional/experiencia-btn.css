@@ -1,0 +1,8 @@
+.experiencia__btn {
+    display: flex;
+    padding: 1rem;
+    justify-content: center;
+    align-items: center;
+    gap: 0.625rem;
+    border: 1px solid  #2A7AE4;
+}

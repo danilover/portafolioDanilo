@@ -1,0 +1,8 @@
+.formulario__uno {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 2rem;
+    align-self: stretch;
+    background: #EAF2FD;
+}
